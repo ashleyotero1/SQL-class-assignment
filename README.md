@@ -1,8 +1,8 @@
-# SQL Assignment 3 – Aggregates and Joins
+# SQL Database Query Projects
 
 ## Description
 This repository contains my SQL coursework.  
-The assignment demonstrates the use of aggregate functions and join statements to retrieve and analyze data from multiple tables.
+The assignments demonstrates the use of aggregate functions and join statements to retrieve and analyze data from multiple tables.
 
 ## Skills Demonstrated
 - Aggregate functions: COUNT(), SUM(), AVG(), MIN(), MAX()
