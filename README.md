@@ -9,10 +9,7 @@ The assignments demonstrates the use of aggregate functions and join statements 
 - INNER JOIN and LEFT JOIN operations
 - Grouping and filtering results
 
-## File Included
-- `Assignment3_AggregatesAndJoins.sql` → contains queries for aggregates and join statements
-
 ## How to Use
 1. Open SQL Server Management Studio (SSMS) or another SQL environment.  
-2. Open the file `Assignment3_AggregatesAndJoins.sql`.  
+2. Open the file.  
 3. Run each query to view results of aggregate calculations and join operations.
