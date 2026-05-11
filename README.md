@@ -1,7 +1,7 @@
 # SQL Assignment 3 – Aggregates and Joins
 
 ## Description
-This repository contains my SQL coursework for Assignment 3.  
+This repository contains my SQL coursework.  
 The assignment demonstrates the use of aggregate functions and join statements to retrieve and analyze data from multiple tables.
 
 ## Skills Demonstrated
